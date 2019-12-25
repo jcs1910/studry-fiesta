@@ -1,6 +1,7 @@
 .env
 .prettierrc
 .eslintrc.json
+.jsconfig.json
 
 node_modules
 yarn.lock
