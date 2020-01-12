@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^3.0.7",
     "dotenv": "^8.2.0",
     "eslint-config-prettier": "^6.7.0",
     "esm": "^3.2.25",
@@ -11,7 +12,7 @@
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.8.3"
+    "mongoose": "^5.8.7"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.13.0",
